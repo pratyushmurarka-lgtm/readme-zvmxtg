@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pratyushmurarka-lgtm.github.io/readme-zvmxtg/sitemap.xml
